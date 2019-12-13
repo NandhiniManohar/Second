@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5EAA</color>
+    <color name="colorPrimaryDark">#FF5EAA</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Background color for the app -->
+    <color name="colorPink">#FF5EAA</color>
+
+    <!-- Background color for the button -->
+    <color name="colorMint">#98FF98</color>
+
+    <!-- Background color for the button -->
+    <color name="colorlightPink">#FFAED7</color>
+
+    <!-- Background color for the button -->
+    <color name="colorGrey">#d3d3d3</color>
+
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorPurple">#FF00FF</color>
+
+    <color name="colorWhite">#ffffff</color>
+
+
+</resources>

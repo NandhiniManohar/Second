@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Gestational Diabetes Meal</string>
+
+    <!-- Label for dropdown menu option to select a meal [CHAR LIMIT=20] -->
+    <string name="select_meal">Select a Meal</string>
+
+    <!-- Label for dropdown menu option if the meal is breakfast [CHAR LIMIT=20] -->
+    <string name="meal_breakfast">BreakFast</string>
+
+    <!-- Label for dropdown menu option if the meal is lunch [CHAR LIMIT=20] -->
+    <string name="meal_lunch">Lunch</string>
+
+    <!-- Label for dropdown menu option if the meal is dinner [CHAR LIMIT=20] -->
+    <string name="meal_dinner">Dinner</string>
+
+    <!-- Label for dropdown menu option if the meal is snack [CHAR LIMIT=20] -->
+    <string name="meal_snack">Snack</string>
+
+    <!-- Description of a textView -->
+    <string name="textView_desc">Here are the options to select a meal according  to
+        the carbs to be taken.
+    </string>
+
+    <!-- Label for button -->
+    <string name="btn_text">Click for another option</string>
+</resources>
